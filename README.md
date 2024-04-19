@@ -1,6 +1,6 @@
-# test-python-gpts
+# try-python-gpts
 
-This is to try out some code related GPTs from the ChatGPT store to see what they are capable they are at a high level.
+This is to try out some code related GPTs from the ChatGPT store to see what they are capable of at a high level.
 
 #### Note
 - Even for exactly the same prompt, they might (likely) generate a different code/application example. The first time I tried the 2nd GPT it generated a file system watcher and notifier but I interrupted it so I decided to retry and generated a new app below.
